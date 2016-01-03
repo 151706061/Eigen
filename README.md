@@ -17,8 +17,8 @@ git submodule update --init -- Modules/ThirdParty/Eigen
 License
 -------
 
-The files in this directory are primarily redistributed under the terms of
-the Mozilla Public License v. 2.0. See [COPYING.MPL2](COPYING.MPL2) file.
+The Eigen files are redistributed under the terms of the Mozilla Public License v. 2.0.
+See [COPYING.MPL2](COPYING.MPL2) file.
 
 Some of the included third-party files are covered by the BSD license.
 See [COPYING.BSD](COYPING.BSD) file.
