@@ -11,7 +11,7 @@ submodule is not initialized, a separate Eigen installation is required.
 
 ```bash
 cd $MIRTK_SOURCE_DIR
-git submodule update --init -- Modules/ThirdParty/Eigen
+git submodule update --init -- ThirdParty/Eigen
 ```
 
 License
