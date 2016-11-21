@@ -1,3 +1,5 @@
+**The Eigen header files are no longer included as Git submodule in MIRTK. External installation is required.**
+
 MIRTK ThirdParty/Eigen
 ======================
 
